@@ -50,6 +50,11 @@ Cocoonasa: Rompe enlaces entr arginina y lisina.
 
 Convergente: Es cuando proteímas de especies distintas, producto de la evolucion, cumplen la misma funcion, ya que los organismos a los que pertenecen se encuentran separados pero en las mismas circunstancias, digase ambiente, disponibilidad de comida, etc.
 
-Divergente: Se dice 
+Divergente: Se dice de las proteínas de organismos con un ancestro común en las que sus funciones se han diferenciado, pero aun se reconocen los sitios activos y semejanzas de secuencia aminoacídica.
+
+## P.4 Evolucion convergente o divergente entre hemoglobina, glutation peroxidasa y cytochrome c.
+
+![imagen1:alineamiento](https://github.com/Peepcross/6REAT-LAB7/blob/master/alineamiento.png)
+
 
 
