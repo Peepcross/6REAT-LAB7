@@ -34,6 +34,22 @@ Plasmina: Disuelve la fibrina de los coágulos de sangre y actúa como un factor
 
 Trombina: Rompe enlaces entr arginina y lisina.
 
-Proteasa acrosomal:
+Proteasa acrosomal: 
+
+Complement C1: Puede desempeñar un papel potencialmente crucial en la regulación de vías fisiológicas importantes, incluida la activación del complemento, la coagulación sanguínea, la fibrinólisis y la generación de quininas.
+
+Queratinasa:  Degradar la queratina en péptidos.
+
+Colagenasa: Degradar colàgeno.
+
+Fibrinolisina: Romper enlaces aginilo.
+
+Cocoonasa: Rompe enlaces entr arginina y lisina.
+
+## P.3 Evolucion convergente y divergente
+
+Convergente: Es cuando proteímas de especies distintas, producto de la evolucion, cumplen la misma funcion, ya que los organismos a los que pertenecen se encuentran separados pero en las mismas circunstancias, digase ambiente, disponibilidad de comida, etc.
+
+Divergente: Se dice 
 
 
