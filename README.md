@@ -56,5 +56,12 @@ Divergente: Se dice de las proteínas de organismos con un ancestro común en la
 
 ![imagen1:alineamiento](https://github.com/Peepcross/6REAT-LAB7/blob/master/alineamiento.png)
 
+Puesto que el porcentaje de identidad entre las 3 secuencias aminoacìdicas es muy leve, se deduce una evolucion convergente. 
+
+## P.5 Homologia vs Evolucion convergente/divergente
+
+Una evolucion convergente, en términos de homología, se daría entre secuencias con un porcentaje de identidad bajo con carácteristicas funcionales parecidas, en cambio la evolucion divergente se basa en secuencias con un porcentaje de identidad alto con funciones distintas.
+
+
 
 
