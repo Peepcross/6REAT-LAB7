@@ -92,7 +92,9 @@ Las clases se dividen en:
 
 * Subtilisin-like: EC number = 3.4.21.62. Es clase 3 porque usa agua para romper enláces, o sea es una hidrolasa. Es subclase 4 porque hidroliza en los enlaces peptídicos, o sea es una peptidasa. Es sub-subclase 21 porque usa una serina como nucleófilo en el sitio activo, o sea es una serin endopeptidasa. Luego su identificador es 62, ya que hidróliza proteínas con amplia especificidad para enlaces peptídicos, y una preferencia por un gran residuo no cargado en P1, e hidroliza las amidas peptídicas.
 
+## P.3 Diferenciacion 
 
+# P.4 
 
 
 
