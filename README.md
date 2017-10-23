@@ -32,7 +32,7 @@ Elastasa: Hidrólisis de proteínas, incluida la elastina.
 
 Plasmina: Disuelve la fibrina de los coágulos de sangre y actúa como un factor proteolítico en una variedad de otros procesos.
 
-Trombina: Rompe enlaces entr arginina y lisina.
+Trombina: Rompe enlaces despues de arginina y glisina.
 
 Proteasa acrosomal: 
 
@@ -44,7 +44,7 @@ Colagenasa: Degradar colàgeno.
 
 Fibrinolisina: Romper enlaces aginilo.
 
-Cocoonasa: Rompe enlaces entr arginina y lisina.
+Cocoonasa: Rompe enlaces despues de arginina y lisina.
 
 ## P.3 Evolucion convergente y divergente
 
@@ -80,7 +80,17 @@ Las clases se dividen en:
 
 * Ligasas: Las ligasas son enzimas que catalizan la unión de dos moléculas con la hidrólisis concomitante del enlace difosfato en ATP o un trifosfato similar.
 
+## P.2 Identificar y justificar cada clase, subclase y sub-subclase para encontrar los números identificadores EC de las enzimas Serine Proteasas: Trypsin-like, chymotrypsin-like, thrombin-like, elastase-like y subtilisin-like.
 
+* Tripsin-like: EC number = 3.4.21.4. Es clase 3 porque usa agua para romper enláces, o sea es una hidrolasa. Es subclase 4 porque hidroliza los enlaces peptídicos, o sea es una peptidasa. Es sub-subclase 21 porque usa una serina como nucleófilo en el sitio activo, o sea es una serin endopeptidasa. Finalmente su identificador es 4, ya que prefiere romper enlaces despues de Arginina y Lisina.
+
+* Chymotrypsin-like: EC bumber = 3.4.21.1. Es clase 3 porque usa agua para romper enláces, o sea es una hidrolasa. Es subclase 4 porque hidroliza en los enlaces peptídicos, o sea es una peptidasa. Es sub-subclase 21 porque usa una serina como nucleófilo en el sitio activo, o sea es una serin endopeptidasa. Finalmente su identificador es 1, puesto que prefiere romper enlaces despues de Tirosina, triptófano, fenilalanina, leucina. 
+
+* Thrombin-like: EC bumber = 3.4.21.5. Es clase 3 porque usa agua para romper enláces, o sea es una hidrolasa. Es subclase 4 porque hidroliza en los enlaces peptídicos, o sea es una peptidasa. Es sub-subclase 21 porque usa una serina como nucleófilo en el sitio activo, o sea es una serin endopeptidasa. Por último su identificador es 5, porque prefiere romper los enlaces despues de Arginina y Glisina en fibrinógeno para formar fibrina y liberar fibrinopéptidos A y B.
+
+* Elastase-like: EC number = EC 3.4.21.71. Es clase 3 porque usa agua para romper enláces, o sea es una hidrolasa. Es subclase 4 porque hidroliza en los enlaces peptídicos, o sea es una peptidasa. Es sub-subclase 21 porque usa una serina como nucleófilo en el sitio activo, o sea es una serin endopeptidasa. Finalmente su identificador es 71, porque prefiere romper enlaces despues de Leucina, metionina y fenilalanina, e hidroliza elastina. 
+
+* Subtilisin-like: EC number = 3.4.21.62. Es clase 3 porque usa agua para romper enláces, o sea es una hidrolasa. Es subclase 4 porque hidroliza en los enlaces peptídicos, o sea es una peptidasa. Es sub-subclase 21 porque usa una serina como nucleófilo en el sitio activo, o sea es una serin endopeptidasa. Luego su identificador es 62, ya que hidróliza proteínas con amplia especificidad para enlaces peptídicos, y una preferencia por un gran residuo no cargado en P1, e hidroliza las amidas peptídicas.
 
 
 
