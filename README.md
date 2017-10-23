@@ -62,6 +62,32 @@ Puesto que el porcentaje de identidad entre las 3 secuencias aminoacìdicas es m
 
 Una evolucion convergente, en términos de homología, se daría entre secuencias con un porcentaje de identidad bajo con carácteristicas funcionales parecidas, en cambio la evolucion divergente se basa en secuencias con un porcentaje de identidad alto con funciones distintas.
 
+# Clasificación funcional y estructural de enzimas
+
+## Enzyme comission, P.1 Describa las distintas clases y las reacciones que catalizan.
+
+Las clases se dividen en: 
+
+* Oxidoreductasas: Enzimas que catalizan reacciones de oxidacion o reducccion segun sea el caso.El sustrato oxidado se considera como hidrógeno o donador de electrones.
+
+* Transferasas: Son enzimas que transfieren un grupo, por ejemplo, el grupo metilo o un grupo glicosilo, de un compuesto (generalmente considerado como donante) a otro compuesto (generalmente considerado como aceptor).
+
+* Hidrolasas: Estas enzimas catalizan la hidrólisis de diversos enlaces.
+
+* Liasas: Son enzimas que escinden CC, CO, CN y otros enlaces por otros medios distintos de la hidrólisis o la oxidación.
+
+* Isomerasas: Estas enzimas catalizan los cambios estructurales dentro de una molécula. 
+
+* Ligasas: Las ligasas son enzimas que catalizan la unión de dos moléculas con la hidrólisis concomitante del enlace difosfato en ATP o un trifosfato similar.
+
+
+
+
+
+
+
+
+
 
 
 
