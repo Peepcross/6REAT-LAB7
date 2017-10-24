@@ -96,6 +96,47 @@ Las clases se dividen en:
 
 # P.4 
 
+# P.5 Informacion obtenida de UNIPROT. 
+
+1. Codigo PDB: 4h4f
+
+- Codigo Uniprot: Q99895 
+- Nombre: Quimotripsina-C
+- Organismo: Homo sapiens 
+- Funcion: Regula la activación y degradación de tripsinógenos y procarboxipeptidasas dirigiéndose a sitios de escisión específicos dentro de sus precursores de zimógeno. Tiene actividad proteasa tipo quimotripsina y actividad hipocalcémica.
+- Codigo Pfam: PF00089
+- Código supfam: SSF50494
+- EC number: EC 3.4.21.2
+- Secuencia aminoacídica: 
+
+>sp|Q99895|CTRC_HUMAN Chymotrypsin-C OS=Homo sapiens GN=CTRC PE=1 SV=2
+MLGITVLAALLACASSCGVPSFPPNLSARVVGGEDARPHSWPWQISLQYLKNDTWRHTCG
+GTLIASNFVLTAAHCISNTRTYRVAVGKNNLEVEDEEGSLFVGVDTIHVHKRWNALLLRN
+DIALIKLAEHVELSDTIQVACLPEKDSLLPKDYPCYVTGWGRLWTNGPIADKLQQGLQPV
+VDHATCSRIDWWGFRVKKTMVCAGGDGVISACNGDSGGPLNCQLENGSWEVFGIVSFGSR
+RGCNTRKKPVVYTRVSAYIDWINEKMQL
+
+- Dominios: Peptidasa S1
+- Residuos del sitio activo: Serina, aspartato e histidina
+
+2. Codigo PDB: 3OTJ
+
+- Codigo Uniprot: P00760.
+- Nombre: Tripsina catiónica
+- Organismo: Bos taurus (bovino)
+- Funcion: Escisión preferencial: Arg- | -Xaa, Lys- | -Xaa. Enlace de iones metálicos.
+- Codigo Pfam: PF00089
+- Codigo supfam: SSF50494
+- EC number: 3.4.21.4
+-Secuencia aminoacídica
+
+>sp|P00760|TRY1_BOVIN Cationic trypsin OS=Bos taurus PE=1 SV=3
+MKTFIFLALLGAAVAFPVDDDDKIVGGYTCGANTVPYQVSLNSGYHFCGGSLINSQWVVS
+AAHCYKSGIQVRLGEDNINVVEGNEQFISASKSIVHPSYNSNTLNNDIMLIKLKSAASLN
+SRVASISLPTSCASAGTQCLISGWGNTKSSGTSYPDVLKCLKAPILSDSSCKSAYPGQIT
+SNMFCAGYLEGGKDSCQGDSGGPVVCSGKLQGIVSWGSGCAQKNKPGVYTKVCNYVSWIK
+QTIASN
+
 
 
 
