@@ -224,7 +224,7 @@ PELDVMAPGVSIQSTLPGNKYGAYNGTSMASPHVAGAAALILSKHPNWTNTQVRSSLENT
 TTKLGDSFYYGKGLINVQAAAQ
 
 - Dominios: peptidasa S8
-- esiduos del sitio activo: Serina, aspartato e histidina.
+- Residuos del sitio activo: Serina, aspartato e histidina.
 
 ## P.6
 
@@ -240,7 +240,49 @@ Porque hay secuencias con un porcentaje de identidad mas alto entre ellas que co
 
 Evolucion divergente
 
-## P.11
+## P.11 “identificar la familia a la cual pertenece una secuencia a menudo permite inferir su funcionalidad"
+
+
+Las proteinas de una misma familia geneneralmente tienden a ejecutar las mismas funciones.
+
+## P.12 PROSITE
+
+Informacion sobre proteinas 
+
+## P.13 
+
+### Codigo PDB: 1AGS 
+
+- Codigo Uniprot: P09210
+- Nombre: Glutathione S-transferase A2
+- Organismo: Homo sapiens (Humano)
+- Funcion: Conjugación de glutatión reducido a una gran cantidad de electrófilos hidrofóbicos exógenos y endógenos.
+- codigo pfam: PF14497/PF02798
+- codigo supfam: SSF47616/SSF52833
+- EC number: no encontre la wea
+- secuencia aminoacidica: 
+
+>sp|P09210|GSTA2_HUMAN Glutathione S-transferase A2 OS=Homo sapiens GN=GSTA2 PE=1 SV=4
+MAEKPKLHYSNIRGRMESIRWLLAAAGVEFEEKFIKSAEDLDKLRNDGYLMFQQVPMVEI
+DGMKLVQTRAILNYIASKYNLYGKDIKEKALIDMYIEGIADLGEMILLLPFSQPEEQDAK
+LALIQEKTKNRYFPAFEKVLKSHGQDYLVGNKLSRADIHLVELLYYVEELDSSLISSFPL
+LKALKTRISNLPTVKKFLQPGSPRKPPMDEKSLEESRKIFRF
+
+- Dominios: GST N-terminal/GST C-terminal
+- 
+
+### Codigo PDB: 1AGP 
+
+- Codigo Uniprot: P01112
+- Nombre: GTPasa HRas
+- Organismo: Homo sapiens (Humano)
+- Funcion: Involucrado en la activación de la transducción de señal de la proteína Ras. Las proteínas Ras se unen a GDP / GTP y poseen actividad de GTPasa intrínseca.
+- codigo pfam: PF00071
+- codigo supfam: SSF52540
+
+
+## P.14 
+
 
 
 
