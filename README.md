@@ -309,7 +309,32 @@ Según sus dominios.
 
 ## P.20 
 
-PDB Q99895 = 29 - 267 Serine proteases, trypsin domain
+* Q99895 
+
+![imagen dom1](https://github.com/Peepcross/6REAT-LAB7/blob/master/dom1.png)
+
+* P00760 
+
+![imagen dom2](https://github.com/Peepcross/6REAT-LAB7/blob/master/dom2.png)
+
+* P00766 
+
+![imagen dom3](https://github.com/Peepcross/6REAT-LAB7/blob/master/dom3.png)
+
+* P00775 
+
+![imagen dom4](https://github.com/Peepcross/6REAT-LAB7/blob/master/dom4.png)
+
+* P00776 
+
+![imagen dom5](https://github.com/Peepcross/6REAT-LAB7/blob/master/dom5.png)
+
+* P00782 
+
+![imagen dom6](https://github.com/Peepcross/6REAT-LAB7/blob/master/dom6.png)
+
+* 
+
 
 
 
