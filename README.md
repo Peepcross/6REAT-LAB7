@@ -251,7 +251,7 @@ Informacion sobre proteinas
 
 ## P.13 
 
-### Codigo PDB: 1AGS 
+### 7. Codigo PDB: 1AGS 
 
 - Codigo Uniprot: P09210
 - Nombre: Glutathione S-transferase A2
@@ -259,7 +259,7 @@ Informacion sobre proteinas
 - Funcion: Conjugación de glutatión reducido a una gran cantidad de electrófilos hidrofóbicos exógenos y endógenos.
 - codigo pfam: PF14497/PF02798
 - codigo supfam: SSF47616/SSF52833
-- EC number: no encontre la wea
+- EC number: 
 - secuencia aminoacidica: 
 
 >sp|P09210|GSTA2_HUMAN Glutathione S-transferase A2 OS=Homo sapiens GN=GSTA2 PE=1 SV=4
@@ -271,7 +271,7 @@ LKALKTRISNLPTVKKFLQPGSPRKPPMDEKSLEESRKIFRF
 - Dominios: GST N-terminal/GST C-terminal
 - 
 
-### Codigo PDB: 1AGP 
+### 8. Codigo PDB: 1AGP 
 
 - Codigo Uniprot: P01112
 - Nombre: GTPasa HRas
@@ -279,13 +279,37 @@ LKALKTRISNLPTVKKFLQPGSPRKPPMDEKSLEESRKIFRF
 - Funcion: Involucrado en la activación de la transducción de señal de la proteína Ras. Las proteínas Ras se unen a GDP / GTP y poseen actividad de GTPasa intrínseca.
 - codigo pfam: PF00071
 - codigo supfam: SSF52540
+- EC number: 
+- secuencia aminoacidica: 
 
+>sp|P01112|RASH_HUMAN GTPase HRas OS=Homo sapiens GN=HRAS PE=1 SV=1
+MTEYKLVVVGAGGVGKSALTIQLIQNHFVDEYDPTIEDSYRKQVVIDGETCLLDILDTAG
+QEEYSAMRDQYMRTGEGFLCVFAINNTKSFEDIHQYREQIKRVKDSDDVPMVLVGNKCDL
+AARTVESRQAQDLARSYGIPYIETSAKTRQGVEDAFYTLVREIRQHKLRKLNPPDESGPG
+CMSCKCVLS
+
+- Dominios: 166 - 185	Región hipervariable/32 - 40	Región efector
+- 
 
 ## P.14 
 
+## P.15 
 
+## P.16  "Pfam" ¿Que información le entrega esta página?
 
+Distintos parámetros en relacion al largo y configuracion de los dominios en la secuencia de la proteina.
 
+## P.17 ¿Como se clasifican las proteínas en ella?
+
+Según sus dominios.
+
+## P.18 ¿A qué familia(s) corresponde cada secuencia?
+
+## P.19 logo
+
+## P.20 
+
+PDB Q99895 = 29 - 267 Serine proteases, trypsin domain
 
 
 
