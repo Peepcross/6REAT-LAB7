@@ -94,11 +94,11 @@ Las clases se dividen en:
 
 ## P.3 Diferenciacion 
 
-# P.4 
+## P.4 
 
-# P.5 Informacion obtenida de UNIPROT. 
+## P.5 Informacion obtenida de UNIPROT. 
 
-1. Codigo PDB: 4h4f
+### 1. Codigo PDB: 4h4f
 
 - Codigo Uniprot: Q99895 
 - Nombre: Quimotripsina-C
@@ -119,7 +119,7 @@ RGCNTRKKPVVYTRVSAYIDWINEKMQL
 - Dominios: Peptidasa S1
 - Residuos del sitio activo: Serina, aspartato e histidina
 
-2. Codigo PDB: 3OTJ
+### 2. Codigo PDB: 3OTJ
 
 - Codigo Uniprot: P00760.
 - Nombre: Tripsina catiónica
@@ -128,7 +128,7 @@ RGCNTRKKPVVYTRVSAYIDWINEKMQL
 - Codigo Pfam: PF00089
 - Codigo supfam: SSF50494
 - EC number: 3.4.21.4
--Secuencia aminoacídica
+- Secuencia aminoacídica
 
 >sp|P00760|TRY1_BOVIN Cationic trypsin OS=Bos taurus PE=1 SV=3
 MKTFIFLALLGAAVAFPVDDDDKIVGGYTCGANTVPYQVSLNSGYHFCGGSLINSQWVVS
@@ -140,7 +140,112 @@ QTIASN
 - Dominios: Peptidasa S1
 - Residuos del sitio activo: Serina, aspartato e histidina
 
-3. Codigo PDB: 1YPH 
+### 3. Codigo PDB: 1YPH 
+
+- Codigo Uniprot: P00766
+- Nombre: Quimotripsinógeno A
+- Organismo: Bos taurus (bovino)
+- Funcion: Escisión preferencial: Tyr- | -Xaa, Trp- | -Xaa, Phe- | -Xaa, Leu- | -Xaa.
+- Codigo Pfam: PF00089
+- Codigo supfam: SSF50494
+- EC number: 3.4.21.1
+- Secuencia aminoacídica: 
+
+>sp|P00766|CTRA_BOVIN Chymotrypsinogen A OS=Bos taurus PE=1 SV=1
+CGVPAIQPVLSGLSRIVNGEEAVPGSWPWQVSLQDKTGFHFCGGSLINENWVVTAAHCGV
+TTSDVVVAGEFDQGSSSEKIQKLKIAKVFKNSKYNSLTINNDITLLKLSTAASFSQTVSA
+VCLPSASDDFAAGTTCVTTGWGLTRYTNANTPDRLQQASLPLLSNTNCKKYWGTKIKDAM
+ICAGASGVSSCMGDSGGPLVCKKNGAWTLVGIVSWGSSTCSTSTPGVYARVTALVNWVQQ
+TLAAN
+
+- Dominios: Peptidasa S1
+- Residuos del sitio activo: Serina, aspartato e histidina
+
+### 4. Codigo PDB: 1SGT 
+
+- Codigo Uniprot: P00775
+- Nombre: Tripsina
+- Organismo: Streptomyces griseus
+- Funcion: Escisión preferencial: Arg- | -Xaa, Lys- | -Xaa.
+- Codigo Pfam: PF00089
+- Codigo supfam: SSF50494
+- EC number: 3.4.21.4
+- Secuencia aminoacidica: 
+
+>sp|P00775|TRYP_STRGR Trypsin OS=Streptomyces griseus GN=sprT PE=1 SV=2
+MKHFLRALKRCSVAVATVAIAVVGLQPVTASAAPNPVVGGTRAAQGEFPFMVRLSMGCGG
+ALYAQDIVLTAAHCVSGSGNNTSITATGGVVDLQSSSAVKVRSTKVLQAPGYNGTGKDWA
+LIKLAQPINQPTLKIATTTAYNQGTFTVAGWGANREGGSQQRYLLKANVPFVSDAACRSA
+YGNELVANEEICAGYPDTGGVDTCQGDSGGPMFRKDNADEWIQVGIVSWGYGCARPGYPG
+VYTEVSTFASAIASAARTL
+
+- Dominios: Peptidasa S1.
+- Residuos del sitio activo: Serina, aspartato e histidina.
+
+### 5. Código PDB: 2SGA
+
+- Codigo Uniprot: P00776
+- Nombre: Streptogrisin-A
+- Organismo: Streptomyces griseus
+- Funcion: Tiene una especificidad primaria para aminoácidos alifáticos o aromáticos grandes.
+- Codigo pfam: PF00089
+- Codigo supfam: SSF50494
+- EC number: 
+- Secuencia aminoacidica: 
+
+>sp|P00776|PRTA_STRGR Streptogrisin-A OS=Streptomyces griseus GN=sprA PE=1 SV=2
+MTFKRFSPLSSTSRYARLLAVASGLVAAAALATPSAVAAPEAESKATVSQLADASSAILA
+ADVAGTAWYTEASTGKIVLTADSTVSKAELAKVSNALAGSKAKLTVKRAEGKFTPLIAGG
+EAITTGGSRCSLGFNVSVNGVAHALTAGHCTNISASWSIGTRTGTSFPNNDYGIIRHSNP
+AAADGRVYLYNGSYQDITTAGNAFVGQAVQRSGSTTGLRSGSVTGLNATVNYGSSGIVYG
+MIQTNVCAEPGDSGGSLFAGSTALGLTSGGSGNCRTGGTTFYQPVTEALSAYGATVL
+
+- Dominios: Peptidasa S8
+- Residuos del sitio activo: Serina, aspartato e histidina.
+
+### 6. Código PDB: 1SBT 
+
+- Codigo Uniprot: P00782
+- Nombre: Subtilisina BPN '
+- Organismo: Bacillus amyloliquefaciens (Bacillus velezensis)
+- Funcion: Cataliza la hidrólisis de proteínas y péptidos amidas. Tiene una alta especificidad de sustrato para la fibrina.
+- Codigo pfam: PF05922/PF00082. 
+- Codigo supfam: SSF52743/SSF54897.
+- EC number: 3.4.21.62
+- Secuencia aminoacidica: 
+
+>sp|P00782|SUBT_BACAM Subtilisin BPN' OS=Bacillus amyloliquefaciens GN=apr PE=1 SV=1
+MRGKKVWISLLFALALIFTMAFGSTSSAQAAGKSNGEKKYIVGFKQTMSTMSAAKKKDVI
+SEKGGKVQKQFKYVDAASATLNEKAVKELKKDPSVAYVEEDHVAHAYAQSVPYGVSQIKA
+PALHSQGYTGSNVKVAVIDSGIDSSHPDLKVAGGASMVPSETNPFQDNNSHGTHVAGTVA
+ALNNSIGVLGVAPSASLYAVKVLGADGSGQYSWIINGIEWAIANNMDVINMSLGGPSGSA
+ALKAAVDKAVASGVVVVAAAGNEGTSGSSSTVGYPGKYPSVIAVGAVDSSNQRASFSSVG
+PELDVMAPGVSIQSTLPGNKYGAYNGTSMASPHVAGAAALILSKHPNWTNTQVRSSLENT
+TTKLGDSFYYGKGLINVQAAAQ
+
+- Dominios: peptidasa S8
+- esiduos del sitio activo: Serina, aspartato e histidina.
+
+## P.6
+
+## P.7 Estan correctos
+
+## P.8 lisot
+
+## P.9 ¿Por que cambia el alineamiento cada vez que elimina una secuncia, se obtiene un resultado similar al eliminar una secuencia diferente de subtilisina?
+
+Porque hay secuencias con un porcentaje de identidad mas alto entre ellas que con otras. Si.
+
+## P.10 proceso de evolucion
+
+Evolucion divergente
+
+## P.11
+
+
+
+
+
 
 
 
