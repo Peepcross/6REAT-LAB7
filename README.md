@@ -333,7 +333,23 @@ Según sus dominios.
 
 ![imagen dom6](https://github.com/Peepcross/6REAT-LAB7/blob/master/dom6.png)
 
-* 
+* P09210 
+
+![imagen dom7](https://github.com/Peepcross/6REAT-LAB7/blob/master/dom7.png)
+
+* P01112
+
+![imagen dom8](https://github.com/Peepcross/6REAT-LAB7/blob/master/dom8.png)
+
+## P.21
+si
+
+## P.22
+
+![imagen bases de datos](https://github.com/Peepcross/6REAT-LAB7/blob/master/consortium.png)
+
+
+  
 
 
 
