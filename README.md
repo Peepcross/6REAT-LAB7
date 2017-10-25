@@ -348,6 +348,12 @@ si
 
 ![imagen bases de datos](https://github.com/Peepcross/6REAT-LAB7/blob/master/consortium.png)
 
+## P.23 (Nula)
+
+## P.24 igual a la 22 
+
+
+
 
   
 
